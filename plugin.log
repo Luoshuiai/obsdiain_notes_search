@@ -1,0 +1,310 @@
+23:55:59 ERROR (launcher.py): local variable 'files' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file in files:
+UnboundLocalError: local variable 'files' referenced before assignment
+23:56:01 ERROR (launcher.py): local variable 'files' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file in files:
+UnboundLocalError: local variable 'files' referenced before assignment
+23:56:05 ERROR (launcher.py): local variable 'files' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file in files:
+UnboundLocalError: local variable 'files' referenced before assignment
+23:56:06 ERROR (launcher.py): local variable 'files' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file in files:
+UnboundLocalError: local variable 'files' referenced before assignment
+23:58:24 ERROR (launcher.py): local variable 'files_path' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file_path in files_path:
+UnboundLocalError: local variable 'files_path' referenced before assignment
+23:58:24 ERROR (launcher.py): local variable 'files_path' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file_path in files_path:
+UnboundLocalError: local variable 'files_path' referenced before assignment
+23:58:25 ERROR (launcher.py): local variable 'files_path' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file_path in files_path:
+UnboundLocalError: local variable 'files_path' referenced before assignment
+23:58:38 ERROR (launcher.py): local variable 'files_path' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 21, in query
+    for file_path in files_path:
+UnboundLocalError: local variable 'files_path' referenced before assignment
+00:28:58 ERROR (launcher.py): listdir: path should be string, bytes, os.PathLike or None, not list
+Traceback (most recent call last):
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 20, in query
+    files_path = obsidian1.search(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\obs.py", line 29, in search
+    files = os.listdir(folder)
+TypeError: listdir: path should be string, bytes, os.PathLike or None, not list
+00:29:26 ERROR (launcher.py): listdir: path should be string, bytes, os.PathLike or None, not list
+Traceback (most recent call last):
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 20, in query
+    files_path = obsidian1.search(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\obs.py", line 29, in search
+    files = os.listdir(folder)
+TypeError: listdir: path should be string, bytes, os.PathLike or None, not list
+00:30:02 ERROR (launcher.py): listdir: path should be string, bytes, os.PathLike or None, not list
+Traceback (most recent call last):
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 20, in query
+    files_path = obsidian1.search(query)
+  File "c:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\obs.py", line 29, in search
+    files = os.listdir(folder)
+TypeError: listdir: path should be string, bytes, os.PathLike or None, not list
+01:17:10 ERROR (launcher.py): 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 23, in query
+    print(file_path)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+01:20:54 ERROR (launcher.py): unterminated character set at position 11
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 20, in query
+    files_path = obsidian1.search(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\obs.py", line 45, in search
+    if re.search(keyword, f.read()):
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\re.py", line 200, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\re.py", line 303, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_compile.py", line 788, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 955, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 444, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 550, in _parse
+    raise source.error("unterminated character set",
+re.error: unterminated character set at position 11
+01:21:19 ERROR (launcher.py): unterminated character set at position 11
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 20, in query
+    files_path = obsidian1.search(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\obs.py", line 45, in search
+    if re.search(keyword, f.read()):
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\re.py", line 200, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\re.py", line 303, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_compile.py", line 788, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 955, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 444, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\LuoElite\.pyenv\pyenv-win\versions\3.10.5\lib\sre_parse.py", line 550, in _parse
+    raise source.error("unterminated character set",
+re.error: unterminated character set at position 11
+01:21:28 ERROR (launcher.py): 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 23, in query
+    print(file_path)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+01:22:06 ERROR (launcher.py): 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 23, in query
+    print(file_path)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2f83' in position 51: illegal multibyte sequence
+01:33:56 ERROR (launcher.py): can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 36, in query
+    title=query+i
+TypeError: can only concatenate str (not "int") to str
+01:33:57 ERROR (launcher.py): can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 36, in query
+    title=query+i
+TypeError: can only concatenate str (not "int") to str
+01:33:57 ERROR (launcher.py): can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 36, in query
+    title=query+i
+TypeError: can only concatenate str (not "int") to str
+01:33:58 ERROR (launcher.py): can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 36, in query
+    title=query+i
+TypeError: can only concatenate str (not "int") to str
+02:30:48 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:30:50 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:30:51 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:30:53 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:31:10 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:31:11 ERROR (launcher.py): obsidian.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\__init__.py", line 131, in _query
+    self.query(query)
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 25, in query
+    method=self.open_note(paths[i]),
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\main.py", line 42, in open_note
+    obsidian.open_note(note_path)
+TypeError: obsidian.open_note() missing 1 required positional argument: 'note_path'
+02:32:28 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+02:57:09 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+02:57:21 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+03:00:44 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+03:04:08 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+03:06:20 ERROR (launcher.py): HelloWorld.open_note() missing 1 required positional argument: 'note_path'
+Traceback (most recent call last):
+  File "C:\Users\LuoElite\AppData\Roaming\FlowLauncher\Plugins\Obsdian Search\lib\flox\launcher.py", line 44, in run
+    results = request_method(*request_parameters) or self._results
+TypeError: HelloWorld.open_note() missing 1 required positional argument: 'note_path'

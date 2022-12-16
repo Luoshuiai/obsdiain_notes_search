@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328d",
+    "ActionKeyword": "ob",
+    "Name": "Obsidian Notes Search",
+    "Description": "Obsidian Notes Search",
+    "Author": "Flow Launcher",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "main.py"
+}
