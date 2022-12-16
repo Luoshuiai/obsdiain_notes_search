@@ -3,5 +3,6 @@
 ## Function
 search notes in obsidian
 
-## BUG
-Error when search '[',']','{',etc
+## ToDo
+
+improve accuracy
